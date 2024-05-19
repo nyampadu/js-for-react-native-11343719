@@ -6,15 +6,15 @@
 ## Tasks
 
 ### Task 1
-- **Description**: Created a JavaScript file named `arrayManipulation.js` and implemented a function `processArray` that takes an array of numbers as an argument and returns a new array where each even number is squared and each odd number is tripled.
-- **File**: `arrayManipulation.js`
+- **Description**: Created a JavaScript file named `arrayManipuation.js` and implemented a function `processArray` that takes an array of numbers as an argument and returns a new array where each even number is squared and each odd number is tripled.
+- **File**: `arrayManipuation.js`
 - **Function**: `processArray`
 
 ### Task 2
-- **Description**: Added a function `formatArrayStrings` in `arrayManipulation.js` that takes two arrays as arguments (an array of strings and an array of numbers processed by `processArray`) and modifies each string based on its corresponding number:
+- **Description**: Added a function `formatArrayStrings` in `arrayManipuation.js` that takes two arrays as arguments (an array of strings and an array of numbers processed by `processArray`) and modifies each string based on its corresponding number:
   - Capitalizes the entire string if the number is even.
   - Converts the string to lowercase if the number is odd.
-- **File**: `arrayManipulation.js`
+- **File**: `arrayManipuation.js`
 - **Function**: `formatArrayStrings`
 
 ### Task 3
